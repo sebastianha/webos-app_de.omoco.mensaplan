@@ -1,0 +1,15 @@
+/* Put Application specific CSS here. */
+
+.palm-page-header-wrapper {
+    font-weight: bold;
+	text-align:center;
+	height: 50px;
+  	line-height: 50px;
+	/* Original is a "0" at the end of this color */
+	background-color: #527787;
+	/* Original is a "2" at the end of this color */
+	color: #ffffff;
+	background-image:url(../images/header.png);
+	background-repeat: no-repeat;
+	background-position: right;
+}
