@@ -7,7 +7,6 @@ webOS App – Mensaplan (de.omoco.mensaplanbi)
 - Compatible with : 	 Palm Pre, Palm Pixi, HP Veer, HP TouchPad 
 - Open Source Category : 	 GNU General Public License 
 - Distribution Type : 	 App Catalog 
-- Pricing : 	 Germany : 0.00 EUR 
 - Universal Search-enabled : 	 No 
 - Exhibition Mode : 	 No 
 - Copyright : 	 copyright 
